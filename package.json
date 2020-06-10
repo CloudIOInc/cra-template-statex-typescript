@@ -1,6 +1,6 @@
 {
   "name": "cra-template-statex-typescript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "react",
     "create-react-app",
@@ -11,15 +11,14 @@
   "description": "The base @cloudio/statex typescript template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/cra-template-typescript"
+    "url": "git@github.com:CloudIOInc/cra-template-statex-typescript.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/CloudIOInc/cra-template-statex-typescript/issues"
   },
   "files": [
     "template",
