@@ -1,6 +1,7 @@
 {
   "name": "cra-template-statex-typescript",
-  "version": "0.0.3",
+  "version": "0.0.9",
+  "main": "./template.json",
   "keywords": [
     "react",
     "create-react-app",
