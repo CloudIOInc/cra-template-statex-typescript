@@ -1,6 +1,6 @@
 {
   "name": "cra-template-statex-typescript",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "main": "./template.json",
   "keywords": [
     "react",
